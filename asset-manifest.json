@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.e739f398.css",
-    "main.js": "./static/js/main.bf15d969.js",
+    "main.js": "./static/js/main.3979f0a5.js",
     "static/media/1.png": "./static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "./static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/bg_logo_img.mp4": "./static/media/bg_logo_img.f4c3661609207395daa1.mp4",
@@ -91,10 +91,10 @@
     "static/media/home.svg": "./static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "index.html": "./index.html",
     "main.e739f398.css.map": "./static/css/main.e739f398.css.map",
-    "main.bf15d969.js.map": "./static/js/main.bf15d969.js.map"
+    "main.3979f0a5.js.map": "./static/js/main.3979f0a5.js.map"
   },
   "entrypoints": [
     "static/css/main.e739f398.css",
-    "static/js/main.bf15d969.js"
+    "static/js/main.3979f0a5.js"
   ]
 }
