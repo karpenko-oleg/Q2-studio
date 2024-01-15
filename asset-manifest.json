@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Q2-studio/static/css/main.91fd9f0f.css",
-    "main.js": "/Q2-studio/static/js/main.1c457284.js",
+    "main.js": "/Q2-studio/static/js/main.98a6f23a.js",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/bg_logo_img.mp4": "/Q2-studio/static/media/bg_logo_img.f4c3661609207395daa1.mp4",
@@ -14,24 +14,22 @@
     "static/media/стены.png": "/Q2-studio/static/media/стены.746add4b968e06b9e1de.png",
     "static/media/аватар с рулеткой.png": "/Q2-studio/static/media/аватар с рулеткой.07558b6dd60132fb79dc.png",
     "static/media/Проект офиса Houses для NAYADA.jpg": "/Q2-studio/static/media/Проект офиса Houses для NAYADA.e2971abb4dc4bfcb2fa3.jpg",
-    "static/media/2.jpg": "/Q2-studio/static/media/2.cf21194f8eedc4e6ac1f.jpg",
     "static/media/все шарики.png": "/Q2-studio/static/media/все шарики.1586933814dee63a6f97.png",
-    "static/media/7.jpg": "/Q2-studio/static/media/7.7db5d757f66c5ac3344d.jpg",
     "static/media/листы с цифрой и трубопроводом.png": "/Q2-studio/static/media/листы с цифрой и трубопроводом.bfdf7055fee511d926cc.png",
+    "static/media/2.jpg": "/Q2-studio/static/media/2.cf21194f8eedc4e6ac1f.jpg",
     "static/media/Дизайн апартаментов FUN BOX.jpg": "/Q2-studio/static/media/Дизайн апартаментов FUN BOX.ae341ac6b7eed82da17a.jpg",
     "static/media/3.jpg": "/Q2-studio/static/media/3.ec01fcdcb134eec1a671.jpg",
-    "static/media/10.jpg": "/Q2-studio/static/media/10.551f5f5abb83b973942b.jpg",
     "static/media/8.jpg": "/Q2-studio/static/media/8.5baf7a84e7a9127ffd25.jpg",
+    "static/media/7.jpg": "/Q2-studio/static/media/7.7db5d757f66c5ac3344d.jpg",
     "static/media/4.jpg": "/Q2-studio/static/media/4.f85ae42423d1ccab373d.jpg",
     "static/media/Проект квартиры на Атарбекова BLUE.jpg": "/Q2-studio/static/media/Проект квартиры на Атарбекова BLUE.e7a7e93834326222bb2b.jpg",
     "static/media/план 2.png": "/Q2-studio/static/media/план 2.40f01656ec0d6ece477e.png",
     "static/media/Проект студии звукозаписи.jpg": "/Q2-studio/static/media/Проект студии звукозаписи.4e7a37301506ff4f2a76.jpg",
     "static/media/план 1.png": "/Q2-studio/static/media/план 1.557960523d96a7073b1e.png",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.jpg": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.f87286a12f0ed6e6b903.jpg",
-    "static/media/5.jpg": "/Q2-studio/static/media/5.4bd23a7370fca9a244b8.jpg",
     "static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.jpg": "/Q2-studio/static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.cc467d074e4587a7d666.jpg",
     "static/media/Проект инсталляций для рок - фестиваля.jpg": "/Q2-studio/static/media/Проект инсталляций для рок - фестиваля.6250ac9d636917c0a4cd.jpg",
-    "static/media/9.jpg": "/Q2-studio/static/media/9.cb1d8b01e0cf7a09ec6f.jpg",
+    "static/media/5.jpg": "/Q2-studio/static/media/5.4bd23a7370fca9a244b8.jpg",
     "static/media/Проект офиса ВОb.jpg": "/Q2-studio/static/media/Проект офиса ВОb.7fd04f9751ec05632a24.jpg",
     "static/media/анкета.png": "/Q2-studio/static/media/анкета.0dc3193a12835af237d3.png",
     "static/media/Проект благоустройства отеля.jpg": "/Q2-studio/static/media/Проект благоустройства отеля.d85521b8bf117563b45f.jpg",
@@ -84,17 +82,16 @@
     "static/media/2.svg": "/Q2-studio/static/media/2.449676b737f9778620ba5571216012d1.svg",
     "static/media/3.svg": "/Q2-studio/static/media/3.2b155ee545cffb31282304452b1d63cc.svg",
     "static/media/whatsapp.svg": "/Q2-studio/static/media/whatsapp.e22ba9278169479c1488579a14912bd9.svg",
-    "static/media/gmail.svg": "/Q2-studio/static/media/gmail.9076b8afb9c3112b5ffc136201177376.svg",
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.444ece77b857bf6854c7350652d32522.svg",
     "static/media/linkedin.svg": "/Q2-studio/static/media/linkedin.3cc8df7a8db2356c98832327beafbd72.svg",
     "static/media/telegram.svg": "/Q2-studio/static/media/telegram.40e5e52802254cf2306dfeba101c5eea.svg",
     "static/media/home.svg": "/Q2-studio/static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "index.html": "/Q2-studio/index.html",
     "main.91fd9f0f.css.map": "/Q2-studio/static/css/main.91fd9f0f.css.map",
-    "main.1c457284.js.map": "/Q2-studio/static/js/main.1c457284.js.map"
+    "main.98a6f23a.js.map": "/Q2-studio/static/js/main.98a6f23a.js.map"
   },
   "entrypoints": [
     "static/css/main.91fd9f0f.css",
-    "static/js/main.1c457284.js"
+    "static/js/main.98a6f23a.js"
   ]
 }
