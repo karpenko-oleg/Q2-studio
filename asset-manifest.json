@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.5eb03d67.css",
-    "main.js": "/Q2-studio/static/js/main.61a7022e.js",
+    "main.css": "/Q2-studio/static/css/main.c2b34a8f.css",
+    "main.js": "/Q2-studio/static/js/main.275894ca.js",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/bg_logo_img.mp4": "/Q2-studio/static/media/bg_logo_img.f4c3661609207395daa1.mp4",
@@ -18,10 +18,10 @@
     "static/media/листы с цифрой и трубопроводом.png": "/Q2-studio/static/media/листы с цифрой и трубопроводом.bfdf7055fee511d926cc.png",
     "static/media/2.jpg": "/Q2-studio/static/media/2.cf21194f8eedc4e6ac1f.jpg",
     "static/media/Дизайн апартаментов FUN BOX.jpg": "/Q2-studio/static/media/Дизайн апартаментов FUN BOX.ae341ac6b7eed82da17a.jpg",
-    "static/media/3.jpg": "/Q2-studio/static/media/3.ec01fcdcb134eec1a671.jpg",
     "static/media/8.jpg": "/Q2-studio/static/media/8.5baf7a84e7a9127ffd25.jpg",
     "static/media/7.jpg": "/Q2-studio/static/media/7.7db5d757f66c5ac3344d.jpg",
     "static/media/4.jpg": "/Q2-studio/static/media/4.f85ae42423d1ccab373d.jpg",
+    "static/media/3.jpg": "/Q2-studio/static/media/3.ec01fcdcb134eec1a671.jpg",
     "static/media/Проект квартиры на Атарбекова BLUE.jpg": "/Q2-studio/static/media/Проект квартиры на Атарбекова BLUE.e7a7e93834326222bb2b.jpg",
     "static/media/план 2.png": "/Q2-studio/static/media/план 2.40f01656ec0d6ece477e.png",
     "static/media/Проект студии звукозаписи.jpg": "/Q2-studio/static/media/Проект студии звукозаписи.4e7a37301506ff4f2a76.jpg",
@@ -87,11 +87,11 @@
     "static/media/telegram.svg": "/Q2-studio/static/media/telegram.40e5e52802254cf2306dfeba101c5eea.svg",
     "static/media/home.svg": "/Q2-studio/static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "index.html": "/Q2-studio/index.html",
-    "main.5eb03d67.css.map": "/Q2-studio/static/css/main.5eb03d67.css.map",
-    "main.61a7022e.js.map": "/Q2-studio/static/js/main.61a7022e.js.map"
+    "main.c2b34a8f.css.map": "/Q2-studio/static/css/main.c2b34a8f.css.map",
+    "main.275894ca.js.map": "/Q2-studio/static/js/main.275894ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eb03d67.css",
-    "static/js/main.61a7022e.js"
+    "static/css/main.c2b34a8f.css",
+    "static/js/main.275894ca.js"
   ]
 }
