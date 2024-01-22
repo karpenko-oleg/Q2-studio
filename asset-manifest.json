@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.3458d8e4.css",
-    "main.js": "/Q2-studio/static/js/main.c8138351.js",
+    "main.css": "/Q2-studio/static/css/main.17b34e7a.css",
+    "main.js": "/Q2-studio/static/js/main.6baa4327.js",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
@@ -11,6 +11,7 @@
     "static/media/стены.png": "/Q2-studio/static/media/стены.746add4b968e06b9e1de.png",
     "static/media/аватар с рулеткой.png": "/Q2-studio/static/media/аватар с рулеткой.07558b6dd60132fb79dc.png",
     "static/media/Проект офиса Houses для NAYADA.jpg": "/Q2-studio/static/media/Проект офиса Houses для NAYADA.e2971abb4dc4bfcb2fa3.jpg",
+    "static/media/bg.png": "/Q2-studio/static/media/bg.b8322f310f61faa74ed7.png",
     "static/media/все шарики.png": "/Q2-studio/static/media/все шарики.1586933814dee63a6f97.png",
     "static/media/листы с цифрой и трубопроводом.png": "/Q2-studio/static/media/листы с цифрой и трубопроводом.bfdf7055fee511d926cc.png",
     "static/media/Дизайн апартаментов FUN BOX.jpg": "/Q2-studio/static/media/Дизайн апартаментов FUN BOX.ae341ac6b7eed82da17a.jpg",
@@ -51,7 +52,6 @@
     "static/media/Кафе - бар.jpg": "/Q2-studio/static/media/Кафе - бар.58646803d75aa2c36b57.jpg",
     "static/media/Проект автономного эко - дома FUTURE.jpg": "/Q2-studio/static/media/Проект автономного эко - дома FUTURE.db3995652d65af4f0681.jpg",
     "static/media/кресло.png": "/Q2-studio/static/media/кресло.06be42bc3bbaa3519108.png",
-    "static/media/bg.jpg": "/Q2-studio/static/media/bg.03eb3c62c507e98bda4c.jpg",
     "static/media/крусло 2.png": "/Q2-studio/static/media/крусло 2.b9b0938ec3a232ce6030.png",
     "static/media/2.png": "/Q2-studio/static/media/2.11240e49272e61e496ef.png",
     "static/media/Проект ЖК Скала.jpg": "/Q2-studio/static/media/Проект ЖК Скала.54758a5986aef0671390.jpg",
@@ -94,11 +94,11 @@
     "static/media/telegram.svg": "/Q2-studio/static/media/telegram.40e5e52802254cf2306dfeba101c5eea.svg",
     "static/media/home.svg": "/Q2-studio/static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "index.html": "/Q2-studio/index.html",
-    "main.3458d8e4.css.map": "/Q2-studio/static/css/main.3458d8e4.css.map",
-    "main.c8138351.js.map": "/Q2-studio/static/js/main.c8138351.js.map"
+    "main.17b34e7a.css.map": "/Q2-studio/static/css/main.17b34e7a.css.map",
+    "main.6baa4327.js.map": "/Q2-studio/static/js/main.6baa4327.js.map"
   },
   "entrypoints": [
-    "static/css/main.3458d8e4.css",
-    "static/js/main.c8138351.js"
+    "static/css/main.17b34e7a.css",
+    "static/js/main.6baa4327.js"
   ]
 }
