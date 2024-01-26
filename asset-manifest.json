@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.a598f81e.css",
-    "main.js": "/Q2-studio/static/js/main.4607d6f6.js",
+    "main.css": "/Q2-studio/static/css/main.c4120a37.css",
+    "main.js": "/Q2-studio/static/js/main.c79dfe84.js",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
@@ -112,20 +112,19 @@
     "static/media/vkontakte.svg": "/Q2-studio/static/media/vkontakte.9b767b52e3e6f13c96985e6354f33762.svg",
     "static/media/3.svg": "/Q2-studio/static/media/3.2b155ee545cffb31282304452b1d63cc.svg",
     "static/media/behance.svg": "/Q2-studio/static/media/behance.40bad2364f4721eeb003078ffa31ba36.svg",
-    "static/media/whatsapp.svg": "/Q2-studio/static/media/whatsapp.9b3d7dc8efbb7cc258f5827668c9d6fe.svg",
     "static/media/gmail.svg": "/Q2-studio/static/media/gmail.e6ddfac94aadca00d41c5070fc24f187.svg",
-    "static/media/linkedin.svg": "/Q2-studio/static/media/linkedin.3cc8df7a8db2356c98832327beafbd72.svg",
+    "static/media/whatsapp.svg": "/Q2-studio/static/media/whatsapp.e22ba9278169479c1488579a14912bd9.svg",
     "static/media/pinterest.svg": "/Q2-studio/static/media/pinterest.7ca46b705cf8fcfc5e1fa874df0605f7.svg",
-    "static/media/telegram.svg": "/Q2-studio/static/media/telegram.bedb37f1892238ac916acb1c8dc2a133.svg",
+    "static/media/telegram.svg": "/Q2-studio/static/media/telegram.4cd49013b35c5a0116dbb194773269c6.svg",
     "static/media/facebook.svg": "/Q2-studio/static/media/facebook.65bb306e1cd8e0237ceceac67d1ee8de.svg",
     "static/media/home.svg": "/Q2-studio/static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
-    "main.a598f81e.css.map": "/Q2-studio/static/css/main.a598f81e.css.map",
-    "main.4607d6f6.js.map": "/Q2-studio/static/js/main.4607d6f6.js.map"
+    "main.c4120a37.css.map": "/Q2-studio/static/css/main.c4120a37.css.map",
+    "main.c79dfe84.js.map": "/Q2-studio/static/js/main.c79dfe84.js.map"
   },
   "entrypoints": [
-    "static/css/main.a598f81e.css",
-    "static/js/main.4607d6f6.js"
+    "static/css/main.c4120a37.css",
+    "static/js/main.c79dfe84.js"
   ]
 }
