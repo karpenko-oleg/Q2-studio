@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.38ba7c45.css",
-    "main.js": "/Q2-studio/static/js/main.205cf959.js",
+    "main.css": "/Q2-studio/static/css/main.f2a59419.css",
+    "main.js": "/Q2-studio/static/js/main.003ff57b.js",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
@@ -87,6 +87,7 @@
     "static/media/4.png": "/Q2-studio/static/media/4.679ece068c6adc3e78d0.png",
     "static/media/ofont.ru_Zector.ttf": "/Q2-studio/static/media/ofont.ru_Zector.549592e45503a34183d4.ttf",
     "static/media/конфета 2.png": "/Q2-studio/static/media/конфета 2.c8be2f31ddfe158cc97d.png",
+    "static/media/капля 3.png": "/Q2-studio/static/media/капля 3.4da861d720163189872e.png",
     "static/media/ofont.ru_Dealerplate.ttf": "/Q2-studio/static/media/ofont.ru_Dealerplate.f5d8bee158fcbd10ca24.ttf",
     "static/media/условное обозначение розетки 2.png": "/Q2-studio/static/media/условное обозначение розетки 2.0808c34d6756a0f257fc.png",
     "static/media/условное обозначение светильника1.png": "/Q2-studio/static/media/условное обозначение светильника1.58349f5035aba67e8455.png",
@@ -99,13 +100,19 @@
     "static/media/10.svg": "/Q2-studio/static/media/10.5132ef16b93a9d08ce0073536ffa7dda.svg",
     "static/media/1.svg": "/Q2-studio/static/media/1.6b386f58a8ef0a556aa2b70d6021f4dd.svg",
     "static/media/ручка.png": "/Q2-studio/static/media/ручка.8858f54dc1de68127af9.png",
+    "static/media/капля 5.png": "/Q2-studio/static/media/капля 5.f0d9b024d697baa4d7b0.png",
     "static/media/ofont.ru_Bootshaus.ttf": "/Q2-studio/static/media/ofont.ru_Bootshaus.cc77276c0b3550050021.ttf",
     "static/media/11.svg": "/Q2-studio/static/media/11.0b30353250df36dc0412e71ee36e3457.svg",
+    "static/media/капля 4.png": "/Q2-studio/static/media/капля 4.c3729fd74d3e8bd678c3.png",
     "static/media/кружка капля 1.png": "/Q2-studio/static/media/кружка капля 1.8dd447a8abaf38a05900.png",
+    "static/media/капля 6.png": "/Q2-studio/static/media/капля 6.6e92f29952ce0dad03e5.png",
+    "static/media/капля 2.png": "/Q2-studio/static/media/капля 2.83220c8060bcbf9deed0.png",
     "static/media/6.svg": "/Q2-studio/static/media/6.92bed8d63ece9028bd9093e6e6546d64.svg",
     "static/media/5.svg": "/Q2-studio/static/media/5.53f17bafc48b2ac16ba3ab13d69ae6bc.svg",
     "static/media/8.svg": "/Q2-studio/static/media/8.37214086db19aa7b861c0544dd602671.svg",
-    "static/media/7.svg": "/Q2-studio/static/media/7.694f590c2e7fd8fe0ec8f53aacb64e18.svg",
+    "static/media/7.svg": "/Q2-studio/static/media/7.8e8305d26e71fa672f9868167a9bf669.svg",
+    "static/media/капля 7.png": "/Q2-studio/static/media/капля 7.519d8bb878607c2b1b26.png",
+    "static/media/капля 1.png": "/Q2-studio/static/media/капля 1.b9b58a376ee83b33070d.png",
     "static/media/9.svg": "/Q2-studio/static/media/9.fe58c59217b7f383bdceaf9e58fe7676.svg",
     "static/media/4.svg": "/Q2-studio/static/media/4.6fe83e02c14c095f57e1cccc22cc3804.svg",
     "static/media/2.svg": "/Q2-studio/static/media/2.46bf0fc84df26dc94854.svg",
@@ -121,11 +128,11 @@
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
-    "main.38ba7c45.css.map": "/Q2-studio/static/css/main.38ba7c45.css.map",
-    "main.205cf959.js.map": "/Q2-studio/static/js/main.205cf959.js.map"
+    "main.f2a59419.css.map": "/Q2-studio/static/css/main.f2a59419.css.map",
+    "main.003ff57b.js.map": "/Q2-studio/static/js/main.003ff57b.js.map"
   },
   "entrypoints": [
-    "static/css/main.38ba7c45.css",
-    "static/js/main.205cf959.js"
+    "static/css/main.f2a59419.css",
+    "static/js/main.003ff57b.js"
   ]
 }
