@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.c4120a37.css",
-    "main.js": "/Q2-studio/static/js/main.c79dfe84.js",
+    "main.css": "/Q2-studio/static/css/main.38ba7c45.css",
+    "main.js": "/Q2-studio/static/js/main.205cf959.js",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
@@ -82,9 +82,9 @@
     "static/media/точка.png": "/Q2-studio/static/media/точка.4416a61e35543c500e5e.png",
     "static/media/ofont.ru_Gerhaus.ttf": "/Q2-studio/static/media/ofont.ru_Gerhaus.7e5174853788a9c3582d.ttf",
     "static/media/розетка.png": "/Q2-studio/static/media/розетка.553b7c8be0fee34cfbb7.png",
-    "static/media/4.png": "/Q2-studio/static/media/4.679ece068c6adc3e78d0.png",
     "static/media/столик 2.png": "/Q2-studio/static/media/столик 2.0928b9220e851fcc0450.png",
     "static/media/Beatrice Display Bold.otf": "/Q2-studio/static/media/Beatrice Display Bold.b72374b854638bc01fc5.otf",
+    "static/media/4.png": "/Q2-studio/static/media/4.679ece068c6adc3e78d0.png",
     "static/media/ofont.ru_Zector.ttf": "/Q2-studio/static/media/ofont.ru_Zector.549592e45503a34183d4.ttf",
     "static/media/конфета 2.png": "/Q2-studio/static/media/конфета 2.c8be2f31ddfe158cc97d.png",
     "static/media/ofont.ru_Dealerplate.ttf": "/Q2-studio/static/media/ofont.ru_Dealerplate.f5d8bee158fcbd10ca24.ttf",
@@ -97,7 +97,7 @@
     "static/media/Концепт апартаментов DEW.jpg": "/Q2-studio/static/media/Концепт апартаментов DEW.13c7d47ef66596422ceb.jpg",
     "static/media/Концепт архитектурной среды яхт - клуба.jpg": "/Q2-studio/static/media/Концепт архитектурной среды яхт - клуба.601b02b0c226edc11332.jpg",
     "static/media/10.svg": "/Q2-studio/static/media/10.5132ef16b93a9d08ce0073536ffa7dda.svg",
-    "static/media/1.svg": "/Q2-studio/static/media/1.de54fc371f200a0762a2.svg",
+    "static/media/1.svg": "/Q2-studio/static/media/1.6b386f58a8ef0a556aa2b70d6021f4dd.svg",
     "static/media/ручка.png": "/Q2-studio/static/media/ручка.8858f54dc1de68127af9.png",
     "static/media/ofont.ru_Bootshaus.ttf": "/Q2-studio/static/media/ofont.ru_Bootshaus.cc77276c0b3550050021.ttf",
     "static/media/11.svg": "/Q2-studio/static/media/11.0b30353250df36dc0412e71ee36e3457.svg",
@@ -108,7 +108,7 @@
     "static/media/7.svg": "/Q2-studio/static/media/7.694f590c2e7fd8fe0ec8f53aacb64e18.svg",
     "static/media/9.svg": "/Q2-studio/static/media/9.fe58c59217b7f383bdceaf9e58fe7676.svg",
     "static/media/4.svg": "/Q2-studio/static/media/4.6fe83e02c14c095f57e1cccc22cc3804.svg",
-    "static/media/2.svg": "/Q2-studio/static/media/2.449676b737f9778620ba5571216012d1.svg",
+    "static/media/2.svg": "/Q2-studio/static/media/2.46bf0fc84df26dc94854.svg",
     "static/media/vkontakte.svg": "/Q2-studio/static/media/vkontakte.9b767b52e3e6f13c96985e6354f33762.svg",
     "static/media/3.svg": "/Q2-studio/static/media/3.2b155ee545cffb31282304452b1d63cc.svg",
     "static/media/behance.svg": "/Q2-studio/static/media/behance.40bad2364f4721eeb003078ffa31ba36.svg",
@@ -120,11 +120,12 @@
     "static/media/home.svg": "/Q2-studio/static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
-    "main.c4120a37.css.map": "/Q2-studio/static/css/main.c4120a37.css.map",
-    "main.c79dfe84.js.map": "/Q2-studio/static/js/main.c79dfe84.js.map"
+    "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
+    "main.38ba7c45.css.map": "/Q2-studio/static/css/main.38ba7c45.css.map",
+    "main.205cf959.js.map": "/Q2-studio/static/js/main.205cf959.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4120a37.css",
-    "static/js/main.c79dfe84.js"
+    "static/css/main.38ba7c45.css",
+    "static/js/main.205cf959.js"
   ]
 }
