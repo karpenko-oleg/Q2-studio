@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.d3375404.css",
-    "main.js": "/Q2-studio/static/js/main.d7376d92.js",
+    "main.css": "/Q2-studio/static/css/main.0d6fd53b.css",
+    "main.js": "/Q2-studio/static/js/main.b52639dd.js",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
@@ -128,11 +128,11 @@
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
-    "main.d3375404.css.map": "/Q2-studio/static/css/main.d3375404.css.map",
-    "main.d7376d92.js.map": "/Q2-studio/static/js/main.d7376d92.js.map"
+    "main.0d6fd53b.css.map": "/Q2-studio/static/css/main.0d6fd53b.css.map",
+    "main.b52639dd.js.map": "/Q2-studio/static/js/main.b52639dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3375404.css",
-    "static/js/main.d7376d92.js"
+    "static/css/main.0d6fd53b.css",
+    "static/js/main.b52639dd.js"
   ]
 }
