@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.e2442f7b.css",
-    "main.js": "/Q2-studio/static/js/main.6052c9ee.js",
-    "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
+    "main.css": "/Q2-studio/static/css/main.b293cfb3.css",
+    "main.js": "/Q2-studio/static/js/main.7f825c7a.js",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
     "static/media/logo__bg.mp4": "/Q2-studio/static/media/logo__bg.d340a3829ef16b557156.mp4",
@@ -19,10 +18,12 @@
     "static/media/план 2.png": "/Q2-studio/static/media/план 2.40f01656ec0d6ece477e.png",
     "static/media/Проект студии звукозаписи.jpg": "/Q2-studio/static/media/Проект студии звукозаписи.4e7a37301506ff4f2a76.jpg",
     "static/media/план 1.png": "/Q2-studio/static/media/план 1.557960523d96a7073b1e.png",
+    "static/media/1.jpg": "/Q2-studio/static/media/1.5523d9371efa06e22a3b.jpg",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.jpg": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.f87286a12f0ed6e6b903.jpg",
     "static/media/утп.jpg": "/Q2-studio/static/media/утп.9e32fb70982578f9a70a.jpg",
     "static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.jpg": "/Q2-studio/static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.cc467d074e4587a7d666.jpg",
     "static/media/Проект инсталляций для рок - фестиваля.jpg": "/Q2-studio/static/media/Проект инсталляций для рок - фестиваля.6250ac9d636917c0a4cd.jpg",
+    "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/дизайнер.png": "/Q2-studio/static/media/дизайнер.8562d43fd4da5437b8bc.png",
     "static/media/строитель.png": "/Q2-studio/static/media/строитель.a04fe46ba5407e3dd39e.png",
     "static/media/диван.png": "/Q2-studio/static/media/диван.0b42d8fb8a0da281b05f.png",
@@ -40,7 +41,6 @@
     "static/media/5.jpg": "/Q2-studio/static/media/5.0228f277d77c14edb63e.jpg",
     "static/media/шарик1.png": "/Q2-studio/static/media/шарик1.5f4984d1037805282b1c.png",
     "static/media/шарик2.png": "/Q2-studio/static/media/шарик2.abb57bcbb9510a396d6c.png",
-    "static/media/1.jpg": "/Q2-studio/static/media/1.5523d9371efa06e22a3b.jpg",
     "static/media/шарик 5.png": "/Q2-studio/static/media/шарик 5.41fc09ad982f1f651a68.png",
     "static/media/шарик 1.png": "/Q2-studio/static/media/шарик 1.b4d89c2cd645e559a977.png",
     "static/media/шарик 2.png": "/Q2-studio/static/media/шарик 2.fa62e356918a7f929a43.png",
@@ -128,11 +128,11 @@
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
-    "main.e2442f7b.css.map": "/Q2-studio/static/css/main.e2442f7b.css.map",
-    "main.6052c9ee.js.map": "/Q2-studio/static/js/main.6052c9ee.js.map"
+    "main.b293cfb3.css.map": "/Q2-studio/static/css/main.b293cfb3.css.map",
+    "main.7f825c7a.js.map": "/Q2-studio/static/js/main.7f825c7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2442f7b.css",
-    "static/js/main.6052c9ee.js"
+    "static/css/main.b293cfb3.css",
+    "static/js/main.7f825c7a.js"
   ]
 }
