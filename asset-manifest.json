@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.1cdbb9f4.css",
-    "main.js": "/Q2-studio/static/js/main.7f825c7a.js",
+    "main.css": "/Q2-studio/static/css/main.c11ac94b.css",
+    "main.js": "/Q2-studio/static/js/main.bafe32a6.js",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
     "static/media/logo__bg.mp4": "/Q2-studio/static/media/logo__bg.d340a3829ef16b557156.mp4",
@@ -53,7 +53,6 @@
     "static/media/Проект ресторана MINT.jpg": "/Q2-studio/static/media/Проект ресторана MINT.cf21194f8eedc4e6ac1f.jpg",
     "static/media/шарик 3.png": "/Q2-studio/static/media/шарик 3.21f4e8276a80d65566d1.png",
     "static/media/4.jpg": "/Q2-studio/static/media/4.e2db6873a6bdc37dd316.jpg",
-    "static/media/BeatriceDeck-Regular.ttf": "/Q2-studio/static/media/BeatriceDeck-Regular.b3aad05e13f7a03c2e25.ttf",
     "static/media/значек вопроса диалога.png": "/Q2-studio/static/media/значек вопроса диалога.9527c6b7bf2ae3d44116.png",
     "static/media/BeatriceDeck-Medium.ttf": "/Q2-studio/static/media/BeatriceDeck-Medium.767c131aaacb6b9d54dc.ttf",
     "static/media/значек видеосвязи2.png": "/Q2-studio/static/media/значек видеосвязи2.e0ba478ebf9ea370aea9.png",
@@ -107,6 +106,7 @@
     "static/media/11.svg": "/Q2-studio/static/media/11.0b30353250df36dc0412e71ee36e3457.svg",
     "static/media/капля 4.png": "/Q2-studio/static/media/капля 4.c3729fd74d3e8bd678c3.png",
     "static/media/кружка капля 1.png": "/Q2-studio/static/media/кружка капля 1.8dd447a8abaf38a05900.png",
+    "static/media/HelveticaNeue.ttf": "/Q2-studio/static/media/HelveticaNeue.9c4794b091302442b6a0.ttf",
     "static/media/капля 6.png": "/Q2-studio/static/media/капля 6.6e92f29952ce0dad03e5.png",
     "static/media/капля 2.png": "/Q2-studio/static/media/капля 2.83220c8060bcbf9deed0.png",
     "static/media/6.svg": "/Q2-studio/static/media/6.92bed8d63ece9028bd9093e6e6546d64.svg",
@@ -130,11 +130,11 @@
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
-    "main.1cdbb9f4.css.map": "/Q2-studio/static/css/main.1cdbb9f4.css.map",
-    "main.7f825c7a.js.map": "/Q2-studio/static/js/main.7f825c7a.js.map"
+    "main.c11ac94b.css.map": "/Q2-studio/static/css/main.c11ac94b.css.map",
+    "main.bafe32a6.js.map": "/Q2-studio/static/js/main.bafe32a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cdbb9f4.css",
-    "static/js/main.7f825c7a.js"
+    "static/css/main.c11ac94b.css",
+    "static/js/main.bafe32a6.js"
   ]
 }
