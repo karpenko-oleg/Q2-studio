@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.f1701d3e.css",
+    "main.css": "/Q2-studio/static/css/main.f0b68344.css",
     "main.js": "/Q2-studio/static/js/main.9d860541.js",
     "static/media/Проект инсталляций для рок - фестиваля.mp4": "/Q2-studio/static/media/Проект инсталляций для рок - фестиваля.c5a3faccffbed381d109.mp4",
     "static/media/Проект офиса Nayada.mp4": "/Q2-studio/static/media/Проект офиса Nayada.caf6d98f174ffb86ba3f.mp4",
@@ -129,11 +129,11 @@
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
-    "main.f1701d3e.css.map": "/Q2-studio/static/css/main.f1701d3e.css.map",
+    "main.f0b68344.css.map": "/Q2-studio/static/css/main.f0b68344.css.map",
     "main.9d860541.js.map": "/Q2-studio/static/js/main.9d860541.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1701d3e.css",
+    "static/css/main.f0b68344.css",
     "static/js/main.9d860541.js"
   ]
 }
