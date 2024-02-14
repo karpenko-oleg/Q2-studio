@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.b1708326.css",
-    "main.js": "/Q2-studio/static/js/main.1742e649.js",
-    "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.c1ee87c73e6c5cde1992.mp4",
-    "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.be5ef0941ec73d71b878.mp4",
+    "main.css": "/Q2-studio/static/css/main.f1701d3e.css",
+    "main.js": "/Q2-studio/static/js/main.9d860541.js",
+    "static/media/Проект инсталляций для рок - фестиваля.mp4": "/Q2-studio/static/media/Проект инсталляций для рок - фестиваля.c5a3faccffbed381d109.mp4",
+    "static/media/Проект офиса Nayada.mp4": "/Q2-studio/static/media/Проект офиса Nayada.caf6d98f174ffb86ba3f.mp4",
+    "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.fbd3b9bf13477eec78a2.mp4",
+    "static/media/дизайн аппартаментов Fun box.mp4": "/Q2-studio/static/media/дизайн аппартаментов Fun box.5c56be61fbbb7e6821ff.mp4",
+    "static/media/Проект офиса BOB.mp4": "/Q2-studio/static/media/Проект офиса BOB.4eaeff19958d78f8220b.mp4",
     "static/media/logo__bg.mp4": "/Q2-studio/static/media/logo__bg.d340a3829ef16b557156.mp4",
-    "static/media/Дизайн апартаментов KASHIRSKIY LOFT.jpg": "/Q2-studio/static/media/Дизайн апартаментов KASHIRSKIY LOFT.518553dae5514d544e02.jpg",
     "static/media/Проект частного дома SMALL HOME.jpg": "/Q2-studio/static/media/Проект частного дома SMALL HOME.8ab1a7d1aede70e083a5.jpg",
     "static/media/стены.png": "/Q2-studio/static/media/стены.746add4b968e06b9e1de.png",
     "static/media/аватар с рулеткой.png": "/Q2-studio/static/media/аватар с рулеткой.07558b6dd60132fb79dc.png",
@@ -13,7 +15,6 @@
     "static/media/bg.png": "/Q2-studio/static/media/bg.b8322f310f61faa74ed7.png",
     "static/media/все шарики.png": "/Q2-studio/static/media/все шарики.1586933814dee63a6f97.png",
     "static/media/листы с цифрой и трубопроводом.png": "/Q2-studio/static/media/листы с цифрой и трубопроводом.bfdf7055fee511d926cc.png",
-    "static/media/Дизайн апартаментов FUN BOX.jpg": "/Q2-studio/static/media/Дизайн апартаментов FUN BOX.ae341ac6b7eed82da17a.jpg",
     "static/media/Проект квартиры на Атарбекова BLUE.jpg": "/Q2-studio/static/media/Проект квартиры на Атарбекова BLUE.e7a7e93834326222bb2b.jpg",
     "static/media/план 2.png": "/Q2-studio/static/media/план 2.40f01656ec0d6ece477e.png",
     "static/media/Проект студии звукозаписи.jpg": "/Q2-studio/static/media/Проект студии звукозаписи.4e7a37301506ff4f2a76.jpg",
@@ -61,7 +62,6 @@
     "static/media/кавс.png": "/Q2-studio/static/media/кавс.33ea0a5bdc59bbd4a7aa.png",
     "static/media/значек почты.png": "/Q2-studio/static/media/значек почты.204f7736e39dedd74cc9.png",
     "static/media/значек видеосвязи.png": "/Q2-studio/static/media/значек видеосвязи.205a46e2cd27dc4cff36.png",
-    "static/media/Кафе - бар.jpg": "/Q2-studio/static/media/Кафе - бар.58646803d75aa2c36b57.jpg",
     "static/media/Проект автономного эко - дома FUTURE.jpg": "/Q2-studio/static/media/Проект автономного эко - дома FUTURE.db3995652d65af4f0681.jpg",
     "static/media/лампа.png": "/Q2-studio/static/media/лампа.244ea1b4aa8e19fb9198.png",
     "static/media/камера.png": "/Q2-studio/static/media/камера.63fda1ca64b669862fc4.png",
@@ -96,7 +96,6 @@
     "static/media/ofont.ru_Nikoleta.ttf": "/Q2-studio/static/media/ofont.ru_Nikoleta.a3a60b8dc92b5c13ea8c.ttf",
     "static/media/условное обозначение розетки.png": "/Q2-studio/static/media/условное обозначение розетки.ed12d22d8198a1cb13d0.png",
     "static/media/ofont.ru_Spectrashell.ttf": "/Q2-studio/static/media/ofont.ru_Spectrashell.3fad08a34fb3962f7313.ttf",
-    "static/media/Концепт апартаментов DEW.jpg": "/Q2-studio/static/media/Концепт апартаментов DEW.13c7d47ef66596422ceb.jpg",
     "static/media/Концепт архитектурной среды яхт - клуба.jpg": "/Q2-studio/static/media/Концепт архитектурной среды яхт - клуба.601b02b0c226edc11332.jpg",
     "static/media/10.svg": "/Q2-studio/static/media/10.5132ef16b93a9d08ce0073536ffa7dda.svg",
     "static/media/1.svg": "/Q2-studio/static/media/1.6b386f58a8ef0a556aa2b70d6021f4dd.svg",
@@ -130,11 +129,11 @@
     "static/media/instagram.svg": "/Q2-studio/static/media/instagram.dc9e65207f11f714848928ce49a47566.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
-    "main.b1708326.css.map": "/Q2-studio/static/css/main.b1708326.css.map",
-    "main.1742e649.js.map": "/Q2-studio/static/js/main.1742e649.js.map"
+    "main.f1701d3e.css.map": "/Q2-studio/static/css/main.f1701d3e.css.map",
+    "main.9d860541.js.map": "/Q2-studio/static/js/main.9d860541.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1708326.css",
-    "static/js/main.1742e649.js"
+    "static/css/main.f1701d3e.css",
+    "static/js/main.9d860541.js"
   ]
 }
