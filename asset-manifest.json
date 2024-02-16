@@ -1,14 +1,9 @@
 {
   "files": {
     "main.css": "/Q2-studio/static/css/main.a7d5572e.css",
-    "main.js": "/Q2-studio/static/js/main.7386d7df.js",
-    "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.32d898b0cc5574ad3028.mp4",
-    "static/media/Дизайн апартаментов KASHIRSKIY LOFT.mp4": "/Q2-studio/static/media/Дизайн апартаментов KASHIRSKIY LOFT.bfd1d1c676f6492b83a1.mp4",
-    "static/media/Кафе - бар.mp4": "/Q2-studio/static/media/Кафе - бар.9a5a0908c9c6c797ea57.mp4",
+    "main.js": "/Q2-studio/static/js/main.ef8bff3c.js",
     "static/media/Проект офисного пространства ВОРКБОКС.mp4": "/Q2-studio/static/media/Проект офисного пространства ВОРКБОКС.565230aff40c0c5d0f88.mp4",
-    "static/media/Проект автономного эко - дома FUTURE.mp4": "/Q2-studio/static/media/Проект автономного эко - дома FUTURE.f3041dbc25c9615e157e.mp4",
     "static/media/Дизайн апартаментов в NEVA TOWERS.mp4": "/Q2-studio/static/media/Дизайн апартаментов в NEVA TOWERS.a1bc00b6b6b0b7597005.mp4",
-    "static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.mp4": "/Q2-studio/static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.7be0905a7c214da804ac.mp4",
     "static/media/Проект студии звукозаписи.mp4": "/Q2-studio/static/media/Проект студии звукозаписи.2748d0de235d841d12a1.mp4",
     "static/media/Концепт архитектурной среды яхт - клуба.mp4": "/Q2-studio/static/media/Концепт архитектурной среды яхт - клуба.49717439f0e04737dc82.mp4",
     "static/media/Проект квартиры на Атарбекова BLUE.mp4": "/Q2-studio/static/media/Проект квартиры на Атарбекова BLUE.557754cabbb185546228.mp4",
@@ -17,16 +12,21 @@
     "static/media/аватар с рулеткой.png": "/Q2-studio/static/media/аватар с рулеткой.07558b6dd60132fb79dc.png",
     "static/media/bg.png": "/Q2-studio/static/media/bg.b8322f310f61faa74ed7.png",
     "static/media/все шарики.png": "/Q2-studio/static/media/все шарики.1586933814dee63a6f97.png",
+    "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.e55220236dec4e97a3eb.mp4",
     "static/media/Проект офиса Nayada.mp4": "/Q2-studio/static/media/Проект офиса Nayada.973e6116fddcad6c88a9.mp4",
     "static/media/листы с цифрой и трубопроводом.png": "/Q2-studio/static/media/листы с цифрой и трубопроводом.bfdf7055fee511d926cc.png",
     "static/media/item_3.jpg": "/Q2-studio/static/media/item_3.1fa3766eccb8b743d5a8.jpg",
     "static/media/item_5.jpg": "/Q2-studio/static/media/item_5.9741d1c8811b1026a19a.jpg",
+    "static/media/Дизайн апартаментов KASHIRSKIY LOFT.mp4": "/Q2-studio/static/media/Дизайн апартаментов KASHIRSKIY LOFT.22cec88371fc4612c77b.mp4",
+    "static/media/Проект автономного эко - дома FUTURE.mp4": "/Q2-studio/static/media/Проект автономного эко - дома FUTURE.22f1aec58849ea53cfc3.mp4",
     "static/media/Проект инсталляций для рок - фестиваля.mp4": "/Q2-studio/static/media/Проект инсталляций для рок - фестиваля.d0fca3ffea6da5f16d12.mp4",
     "static/media/item_7.jpg": "/Q2-studio/static/media/item_7.f42283e0f51976997462.jpg",
     "static/media/Проект офиса BOB.mp4": "/Q2-studio/static/media/Проект офиса BOB.bd76dcbe1796999c7ca1.mp4",
     "static/media/план 2.png": "/Q2-studio/static/media/план 2.40f01656ec0d6ece477e.png",
     "static/media/план 1.png": "/Q2-studio/static/media/план 1.557960523d96a7073b1e.png",
     "static/media/1.jpg": "/Q2-studio/static/media/1.5523d9371efa06e22a3b.jpg",
+    "static/media/Кафе - бар.mp4": "/Q2-studio/static/media/Кафе - бар.1b662bb4ad75b8a638f3.mp4",
+    "static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.mp4": "/Q2-studio/static/media/Концепт офиса на 4000 кв.м. для IQ - КВАРТАЛ.99a18cf35ef41d2a8a16.mp4",
     "static/media/дизайн аппартаментов Fun box.mp4": "/Q2-studio/static/media/дизайн аппартаментов Fun box.634f884233862e170041.mp4",
     "static/media/Дизайн апарт - студии BLOGER HOUSE.mp4": "/Q2-studio/static/media/Дизайн апарт - студии BLOGER HOUSE.41ab463daa742ab76834.mp4",
     "static/media/item_9.jpg": "/Q2-studio/static/media/item_9.f87286a12f0ed6e6b903.jpg",
@@ -137,10 +137,10 @@
     "index.html": "/Q2-studio/index.html",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
     "main.a7d5572e.css.map": "/Q2-studio/static/css/main.a7d5572e.css.map",
-    "main.7386d7df.js.map": "/Q2-studio/static/js/main.7386d7df.js.map"
+    "main.ef8bff3c.js.map": "/Q2-studio/static/js/main.ef8bff3c.js.map"
   },
   "entrypoints": [
     "static/css/main.a7d5572e.css",
-    "static/js/main.7386d7df.js"
+    "static/js/main.ef8bff3c.js"
   ]
 }
