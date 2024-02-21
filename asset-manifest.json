@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.199f0b0f.css",
-    "main.js": "/Q2-studio/static/js/main.1e6f2a92.js",
+    "main.css": "/Q2-studio/static/css/main.32b50795.css",
+    "main.js": "/Q2-studio/static/js/main.a57d20b6.js",
     "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.8c081aba8a9a56175fed.mp4",
     "static/media/Проект офисного пространства ВОРКБОКС.mp4": "/Q2-studio/static/media/Проект офисного пространства ВОРКБОКС.fc4534d452ad30b36d40.mp4",
     "static/media/Кафе - бар.mp4": "/Q2-studio/static/media/Кафе - бар.01fe4786c5bd21143b55.mp4",
@@ -113,12 +113,12 @@
     "static/media/условное обозначение розетки.png": "/Q2-studio/static/media/условное обозначение розетки.ed12d22d8198a1cb13d0.png",
     "static/media/ofont.ru_Spectrashell.ttf": "/Q2-studio/static/media/ofont.ru_Spectrashell.3fad08a34fb3962f7313.ttf",
     "static/media/Hero.ttf": "/Q2-studio/static/media/Hero.5da03185f926f6717e20.ttf",
-    "static/media/10.svg": "/Q2-studio/static/media/10.5132ef16b93a9d08ce0073536ffa7dda.svg",
+    "static/media/10.svg": "/Q2-studio/static/media/10.7270825a94c727647dcf224e5e7ede47.svg",
     "static/media/1.svg": "/Q2-studio/static/media/1.6b386f58a8ef0a556aa2b70d6021f4dd.svg",
     "static/media/ручка.png": "/Q2-studio/static/media/ручка.8858f54dc1de68127af9.png",
     "static/media/капля 5.png": "/Q2-studio/static/media/капля 5.f0d9b024d697baa4d7b0.png",
     "static/media/ofont.ru_Bootshaus.ttf": "/Q2-studio/static/media/ofont.ru_Bootshaus.cc77276c0b3550050021.ttf",
-    "static/media/11.svg": "/Q2-studio/static/media/11.0b30353250df36dc0412e71ee36e3457.svg",
+    "static/media/11.svg": "/Q2-studio/static/media/11.7b511effb2ce478a8d3f06d7f91a336e.svg",
     "static/media/капля 4.png": "/Q2-studio/static/media/капля 4.c3729fd74d3e8bd678c3.png",
     "static/media/кружка капля 1.png": "/Q2-studio/static/media/кружка капля 1.8dd447a8abaf38a05900.png",
     "static/media/HelveticaNeue.ttf": "/Q2-studio/static/media/HelveticaNeue.9c4794b091302442b6a0.ttf",
@@ -127,22 +127,23 @@
     "static/media/6.svg": "/Q2-studio/static/media/6.92bed8d63ece9028bd9093e6e6546d64.svg",
     "static/media/5.svg": "/Q2-studio/static/media/5.53f17bafc48b2ac16ba3ab13d69ae6bc.svg",
     "static/media/8.svg": "/Q2-studio/static/media/8.37214086db19aa7b861c0544dd602671.svg",
-    "static/media/7.svg": "/Q2-studio/static/media/7.8e8305d26e71fa672f9868167a9bf669.svg",
+    "static/media/7.svg": "/Q2-studio/static/media/7.e6e5dc52fa4ae403ab8ecd94340646f4.svg",
     "static/media/капля 7.png": "/Q2-studio/static/media/капля 7.519d8bb878607c2b1b26.png",
     "static/media/капля 1.png": "/Q2-studio/static/media/капля 1.b9b58a376ee83b33070d.png",
     "static/media/9.svg": "/Q2-studio/static/media/9.fe58c59217b7f383bdceaf9e58fe7676.svg",
     "static/media/4.svg": "/Q2-studio/static/media/4.6fe83e02c14c095f57e1cccc22cc3804.svg",
     "static/media/2.svg": "/Q2-studio/static/media/2.46bf0fc84df26dc94854.svg",
-    "static/media/3.svg": "/Q2-studio/static/media/3.2b155ee545cffb31282304452b1d63cc.svg",
+    "static/media/3.svg": "/Q2-studio/static/media/3.e65c79c0a01d1a0d8218da4c2acd8f8d.svg",
     "static/media/home.svg": "/Q2-studio/static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/close.svg": "/Q2-studio/static/media/close.3d5ccb3c06264dd8a878a5a42f52d09e.svg",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
-    "main.199f0b0f.css.map": "/Q2-studio/static/css/main.199f0b0f.css.map",
-    "main.1e6f2a92.js.map": "/Q2-studio/static/js/main.1e6f2a92.js.map"
+    "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
+    "main.32b50795.css.map": "/Q2-studio/static/css/main.32b50795.css.map",
+    "main.a57d20b6.js.map": "/Q2-studio/static/js/main.a57d20b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.199f0b0f.css",
-    "static/js/main.1e6f2a92.js"
+    "static/css/main.32b50795.css",
+    "static/js/main.a57d20b6.js"
   ]
 }
