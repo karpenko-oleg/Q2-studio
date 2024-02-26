@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.32b50795.css",
-    "main.js": "/Q2-studio/static/js/main.a57d20b6.js",
+    "main.css": "/Q2-studio/static/css/main.015a0963.css",
+    "main.js": "/Q2-studio/static/js/main.6f41f3a4.js",
     "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.8c081aba8a9a56175fed.mp4",
     "static/media/Проект офисного пространства ВОРКБОКС.mp4": "/Q2-studio/static/media/Проект офисного пространства ВОРКБОКС.fc4534d452ad30b36d40.mp4",
     "static/media/Кафе - бар.mp4": "/Q2-studio/static/media/Кафе - бар.01fe4786c5bd21143b55.mp4",
@@ -54,14 +54,6 @@
     "static/media/шарик1.png": "/Q2-studio/static/media/шарик1.5f4984d1037805282b1c.png",
     "static/media/шарик2.png": "/Q2-studio/static/media/шарик2.abb57bcbb9510a396d6c.png",
     "static/media/3.jpg": "/Q2-studio/static/media/3.b8b6ea6c7ccd7f5afcdc.jpg",
-    "static/media/facebook.svg": "/Q2-studio/static/media/facebook.4c49b3f2791daca5a7a6ce2e28de687e.svg",
-    "static/media/vkontakte.svg": "/Q2-studio/static/media/vkontakte.65ec1dcdcd110d4ddc993c6752e5bc64.svg",
-    "static/media/instagram.svg": "/Q2-studio/static/media/instagram.1d08ecfc983294a09ade1a16b8d5bbd8.svg",
-    "static/media/telegram.svg": "/Q2-studio/static/media/telegram.75e1d29237e877810c1977545381e53b.svg",
-    "static/media/whatsapp.svg": "/Q2-studio/static/media/whatsapp.495a7dfbd200c0f545d174380e931988.svg",
-    "static/media/pinterest.svg": "/Q2-studio/static/media/pinterest.59d4fd7259f516cf2735fbe8de2d7617.svg",
-    "static/media/gmail.svg": "/Q2-studio/static/media/gmail.8d31c986ff2a10dc7944cf9d9f219c9b.svg",
-    "static/media/behance.svg": "/Q2-studio/static/media/behance.673ffca6903a28fe39bd3aee47355ccd.svg",
     "static/media/4.jpg": "/Q2-studio/static/media/4.e2db6873a6bdc37dd316.jpg",
     "static/media/шарик 5.png": "/Q2-studio/static/media/шарик 5.41fc09ad982f1f651a68.png",
     "static/media/шарик 1.png": "/Q2-studio/static/media/шарик 1.b4d89c2cd645e559a977.png",
@@ -125,25 +117,34 @@
     "static/media/капля 6.png": "/Q2-studio/static/media/капля 6.6e92f29952ce0dad03e5.png",
     "static/media/капля 2.png": "/Q2-studio/static/media/капля 2.83220c8060bcbf9deed0.png",
     "static/media/6.svg": "/Q2-studio/static/media/6.92bed8d63ece9028bd9093e6e6546d64.svg",
+    "static/media/flag1.png": "/Q2-studio/static/media/flag1.2e84e2b6b71afcc34064.png",
     "static/media/5.svg": "/Q2-studio/static/media/5.53f17bafc48b2ac16ba3ab13d69ae6bc.svg",
     "static/media/8.svg": "/Q2-studio/static/media/8.37214086db19aa7b861c0544dd602671.svg",
     "static/media/7.svg": "/Q2-studio/static/media/7.e6e5dc52fa4ae403ab8ecd94340646f4.svg",
     "static/media/капля 7.png": "/Q2-studio/static/media/капля 7.519d8bb878607c2b1b26.png",
     "static/media/капля 1.png": "/Q2-studio/static/media/капля 1.b9b58a376ee83b33070d.png",
+    "static/media/pinterest.svg": "/Q2-studio/static/media/pinterest.4c76b78e0108de1bef0f914e32557544.svg",
     "static/media/9.svg": "/Q2-studio/static/media/9.fe58c59217b7f383bdceaf9e58fe7676.svg",
+    "static/media/behance.svg": "/Q2-studio/static/media/behance.b6ad101dfdc41a7c324d9d8cf2440d59.svg",
+    "static/media/instagram.svg": "/Q2-studio/static/media/instagram.4ea304093d32f0dc6f3e517011cee715.svg",
+    "static/media/telegram.svg": "/Q2-studio/static/media/telegram.a7c6a6882d21d728579158ac48cf46d6.svg",
+    "static/media/vkontakte.svg": "/Q2-studio/static/media/vkontakte.bf14a44dede7d567ebb5c633375d1204.svg",
+    "static/media/gmail.svg": "/Q2-studio/static/media/gmail.bb81b48f600d191acfaf80281abd664f.svg",
+    "static/media/whatsapp.svg": "/Q2-studio/static/media/whatsapp.708071acabb0b67965d39f5824cabead.svg",
     "static/media/4.svg": "/Q2-studio/static/media/4.6fe83e02c14c095f57e1cccc22cc3804.svg",
     "static/media/2.svg": "/Q2-studio/static/media/2.46bf0fc84df26dc94854.svg",
     "static/media/3.svg": "/Q2-studio/static/media/3.e65c79c0a01d1a0d8218da4c2acd8f8d.svg",
+    "static/media/facebook.svg": "/Q2-studio/static/media/facebook.cc8d6bd98633892977e8ba871b5e5241.svg",
     "static/media/home.svg": "/Q2-studio/static/media/home.f8f3acd60181f62667e575a05afd309e.svg",
     "index.html": "/Q2-studio/index.html",
     "static/media/close.svg": "/Q2-studio/static/media/close.3d5ccb3c06264dd8a878a5a42f52d09e.svg",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
-    "main.32b50795.css.map": "/Q2-studio/static/css/main.32b50795.css.map",
-    "main.a57d20b6.js.map": "/Q2-studio/static/js/main.a57d20b6.js.map"
+    "main.015a0963.css.map": "/Q2-studio/static/css/main.015a0963.css.map",
+    "main.6f41f3a4.js.map": "/Q2-studio/static/js/main.6f41f3a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.32b50795.css",
-    "static/js/main.a57d20b6.js"
+    "static/css/main.015a0963.css",
+    "static/js/main.6f41f3a4.js"
   ]
 }
