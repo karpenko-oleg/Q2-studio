@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Q2-studio/static/css/main.3fe85a8d.css",
-    "main.js": "/Q2-studio/static/js/main.c7998491.js",
+    "main.js": "/Q2-studio/static/js/main.2c92faba.js",
     "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.8c081aba8a9a56175fed.mp4",
     "static/media/Проект офисного пространства ВОРКБОКС.mp4": "/Q2-studio/static/media/Проект офисного пространства ВОРКБОКС.fc4534d452ad30b36d40.mp4",
     "static/media/Кафе - бар.mp4": "/Q2-studio/static/media/Кафе - бар.01fe4786c5bd21143b55.mp4",
@@ -152,14 +152,14 @@
     "static/media/whatsapp.svg": "/Q2-studio/static/media/whatsapp.17fa84081b9bf28fab8feef8a70624f1.svg",
     "static/media/telegram.svg": "/Q2-studio/static/media/telegram.13533387310c8229738b6168894819f8.svg",
     "index.html": "/Q2-studio/index.html",
-    "static/media/close.svg": "/Q2-studio/static/media/close.3d5ccb3c06264dd8a878a5a42f52d09e.svg",
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
+    "static/media/close.svg": "/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
     "main.3fe85a8d.css.map": "/Q2-studio/static/css/main.3fe85a8d.css.map",
-    "main.c7998491.js.map": "/Q2-studio/static/js/main.c7998491.js.map"
+    "main.2c92faba.js.map": "/Q2-studio/static/js/main.2c92faba.js.map"
   },
   "entrypoints": [
     "static/css/main.3fe85a8d.css",
-    "static/js/main.c7998491.js"
+    "static/js/main.2c92faba.js"
   ]
 }
