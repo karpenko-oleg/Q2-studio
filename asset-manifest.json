@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Q2-studio/static/css/main.ef4cd65d.css",
-    "main.js": "/Q2-studio/static/js/main.1a01c7e7.js",
+    "main.js": "/Q2-studio/static/js/main.268975ed.js",
     "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.8c081aba8a9a56175fed.mp4",
     "static/media/Проект офисного пространства ВОРКБОКС.mp4": "/Q2-studio/static/media/Проект офисного пространства ВОРКБОКС.fc4534d452ad30b36d40.mp4",
     "static/media/дизайн аппартаментов Fun box.mp4": "/Q2-studio/static/media/дизайн аппартаментов Fun box.5c56be61fbbb7e6821ff.mp4",
@@ -11,6 +11,7 @@
     "static/media/Проект студии звукозаписи.mp4": "/Q2-studio/static/media/Проект студии звукозаписи.aee20b6e032f9300be9c.mp4",
     "static/media/Концепт архитектурной среды яхт - клуба.mp4": "/Q2-studio/static/media/Концепт архитектурной среды яхт - клуба.f08fb8f40f6fe945b55f.mp4",
     "static/media/Проект квартиры на Атарбекова BLUE.mp4": "/Q2-studio/static/media/Проект квартиры на Атарбекова BLUE.557754cabbb185546228.mp4",
+    "static/media/item_5.jpg": "/Q2-studio/static/media/item_5.3795940feb7100dfd06d.jpg",
     "static/media/logo__bg.mp4": "/Q2-studio/static/media/logo__bg.d340a3829ef16b557156.mp4",
     "static/media/4.jpg": "/Q2-studio/static/media/4.e2db6873a6bdc37dd316.jpg",
     "static/media/5_1.jpg": "/Q2-studio/static/media/5_1.b8a00605140cc811da17.jpg",
@@ -36,7 +37,6 @@
     "static/media/_3.jpg": "/Q2-studio/static/media/_3.1914c216908e0b99562a.jpg",
     "static/media/_9.jpg": "/Q2-studio/static/media/_9.feca6e0604aede24b618.jpg",
     "static/media/item_3.jpg": "/Q2-studio/static/media/item_3.1fa3766eccb8b743d5a8.jpg",
-    "static/media/item_5.jpg": "/Q2-studio/static/media/item_5.9741d1c8811b1026a19a.jpg",
     "static/media/_2.jpg": "/Q2-studio/static/media/_2.eccb744b6098f9e6bf92.jpg",
     "static/media/_10.jpg": "/Q2-studio/static/media/_10.b0769d38ca0f1e77655f.jpg",
     "static/media/Проект автономного эко - дома FUTURE.mp4": "/Q2-studio/static/media/Проект автономного эко - дома FUTURE.22f1aec58849ea53cfc3.mp4",
@@ -54,10 +54,10 @@
     "static/media/item_9.jpg": "/Q2-studio/static/media/item_9.f87286a12f0ed6e6b903.jpg",
     "static/media/утп.jpg": "/Q2-studio/static/media/утп.9e32fb70982578f9a70a.jpg",
     "static/media/item_8.jpg": "/Q2-studio/static/media/item_8.5e9d9a07751e653eac4d.jpg",
-    "static/media/item_1.jpg": "/Q2-studio/static/media/item_1.7b2567c297124284be54.jpg",
     "static/media/item_4.jpg": "/Q2-studio/static/media/item_4.6e622bcd24a751d6b25f.jpg",
     "static/media/item_2.jpg": "/Q2-studio/static/media/item_2.5fd0742c2fd975a140a6.jpg",
     "static/media/item_10.jpg": "/Q2-studio/static/media/item_10.86ad57074ef839eec763.jpg",
+    "static/media/item_1.jpg": "/Q2-studio/static/media/item_1.016d1f24fb92f7b5edca.jpg",
     "static/media/item_6.jpg": "/Q2-studio/static/media/item_6.a01e2fad156313a4e500.jpg",
     "static/media/1.png": "/Q2-studio/static/media/1.8fbc8926481a0b9f48b1.png",
     "static/media/дизайнер.png": "/Q2-studio/static/media/дизайнер.8562d43fd4da5437b8bc.png",
@@ -157,10 +157,10 @@
     "static/media/close.svg": "/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
     "main.ef4cd65d.css.map": "/Q2-studio/static/css/main.ef4cd65d.css.map",
-    "main.1a01c7e7.js.map": "/Q2-studio/static/js/main.1a01c7e7.js.map"
+    "main.268975ed.js.map": "/Q2-studio/static/js/main.268975ed.js.map"
   },
   "entrypoints": [
     "static/css/main.ef4cd65d.css",
-    "static/js/main.1a01c7e7.js"
+    "static/js/main.268975ed.js"
   ]
 }
