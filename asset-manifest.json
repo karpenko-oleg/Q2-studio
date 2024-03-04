@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.8403ad24.css",
-    "main.js": "/Q2-studio/static/js/main.55c59a04.js",
+    "main.css": "/Q2-studio/static/css/main.a27af1a9.css",
+    "main.js": "/Q2-studio/static/js/main.01a51236.js",
     "static/media/logo__bg.webm": "/Q2-studio/static/media/logo__bg.8a8c1169aabbd4d148af.webm",
     "static/media/дизайн аппартаментов Fun box.webm": "/Q2-studio/static/media/дизайн аппартаментов Fun box.3e6590d9a1e17e565647.webm",
     "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.186987e8ddbd1258cf55.mp4",
@@ -156,11 +156,11 @@
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
     "static/media/close.svg": "/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
-    "main.8403ad24.css.map": "/Q2-studio/static/css/main.8403ad24.css.map",
-    "main.55c59a04.js.map": "/Q2-studio/static/js/main.55c59a04.js.map"
+    "main.a27af1a9.css.map": "/Q2-studio/static/css/main.a27af1a9.css.map",
+    "main.01a51236.js.map": "/Q2-studio/static/js/main.01a51236.js.map"
   },
   "entrypoints": [
-    "static/css/main.8403ad24.css",
-    "static/js/main.55c59a04.js"
+    "static/css/main.a27af1a9.css",
+    "static/js/main.01a51236.js"
   ]
 }
