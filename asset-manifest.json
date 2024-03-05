@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.556e6858.css",
-    "main.js": "/Q2-studio/static/js/main.5c034e1d.js",
+    "main.css": "/Q2-studio/static/css/main.81b334f5.css",
+    "main.js": "/Q2-studio/static/js/main.855d6fc4.js",
     "static/media/logo__bg.webm": "/Q2-studio/static/media/logo__bg.8a8c1169aabbd4d148af.webm",
     "static/media/дизайн аппартаментов Fun box.webm": "/Q2-studio/static/media/дизайн аппартаментов Fun box.3e6590d9a1e17e565647.webm",
     "static/media/Проект частного дома SMALL HOME.mp4": "/Q2-studio/static/media/Проект частного дома SMALL HOME.186987e8ddbd1258cf55.mp4",
@@ -107,25 +107,20 @@
     "static/media/столик 2.png": "/Q2-studio/static/media/столик 2.0928b9220e851fcc0450.png",
     "static/media/Beatrice Display Bold.otf": "/Q2-studio/static/media/Beatrice Display Bold.b72374b854638bc01fc5.otf",
     "static/media/4.png": "/Q2-studio/static/media/4.679ece068c6adc3e78d0.png",
-    "static/media/ofont.ru_Zector.ttf": "/Q2-studio/static/media/ofont.ru_Zector.549592e45503a34183d4.ttf",
     "static/media/item_4.jpg": "/Q2-studio/static/media/item_4.ac781e54d0286614a4af.jpg",
     "static/media/конфета 2.png": "/Q2-studio/static/media/конфета 2.c8be2f31ddfe158cc97d.png",
     "static/media/капля 3.png": "/Q2-studio/static/media/капля 3.4da861d720163189872e.png",
     "static/media/10.svg": "/Q2-studio/static/media/10.5132ef16b93a9d08ce0073536ffa7dda.svg",
-    "static/media/ofont.ru_Dealerplate.ttf": "/Q2-studio/static/media/ofont.ru_Dealerplate.f5d8bee158fcbd10ca24.ttf",
     "static/media/условное обозначение розетки 2.png": "/Q2-studio/static/media/условное обозначение розетки 2.0808c34d6756a0f257fc.png",
     "static/media/item_1.jpg": "/Q2-studio/static/media/item_1.cebf9bd195eaf61a2f4d.jpg",
     "static/media/условное обозначение светильника1.png": "/Q2-studio/static/media/условное обозначение светильника1.58349f5035aba67e8455.png",
     "static/media/условное обозначение светильника2.png": "/Q2-studio/static/media/условное обозначение светильника2.3924e15a68f5e2f03a6d.png",
-    "static/media/ofont.ru_Nikoleta.ttf": "/Q2-studio/static/media/ofont.ru_Nikoleta.a3a60b8dc92b5c13ea8c.ttf",
     "static/media/условное обозначение розетки.png": "/Q2-studio/static/media/условное обозначение розетки.ed12d22d8198a1cb13d0.png",
-    "static/media/ofont.ru_Spectrashell.ttf": "/Q2-studio/static/media/ofont.ru_Spectrashell.3fad08a34fb3962f7313.ttf",
     "static/media/Hero.ttf": "/Q2-studio/static/media/Hero.5da03185f926f6717e20.ttf",
     "static/media/11.svg": "/Q2-studio/static/media/11.0b30353250df36dc0412e71ee36e3457.svg",
     "static/media/1.svg": "/Q2-studio/static/media/1.6b386f58a8ef0a556aa2b70d6021f4dd.svg",
     "static/media/ручка.png": "/Q2-studio/static/media/ручка.8858f54dc1de68127af9.png",
     "static/media/капля 5.png": "/Q2-studio/static/media/капля 5.f0d9b024d697baa4d7b0.png",
-    "static/media/ofont.ru_Bootshaus.ttf": "/Q2-studio/static/media/ofont.ru_Bootshaus.cc77276c0b3550050021.ttf",
     "static/media/капля 4.png": "/Q2-studio/static/media/капля 4.c3729fd74d3e8bd678c3.png",
     "static/media/кружка капля 1.png": "/Q2-studio/static/media/кружка капля 1.8dd447a8abaf38a05900.png",
     "static/media/7.svg": "/Q2-studio/static/media/7.8e8305d26e71fa672f9868167a9bf669.svg",
@@ -156,11 +151,11 @@
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
     "static/media/close.svg": "/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
-    "main.556e6858.css.map": "/Q2-studio/static/css/main.556e6858.css.map",
-    "main.5c034e1d.js.map": "/Q2-studio/static/js/main.5c034e1d.js.map"
+    "main.81b334f5.css.map": "/Q2-studio/static/css/main.81b334f5.css.map",
+    "main.855d6fc4.js.map": "/Q2-studio/static/js/main.855d6fc4.js.map"
   },
   "entrypoints": [
-    "static/css/main.556e6858.css",
-    "static/js/main.5c034e1d.js"
+    "static/css/main.81b334f5.css",
+    "static/js/main.855d6fc4.js"
   ]
 }
