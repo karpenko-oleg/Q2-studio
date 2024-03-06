@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/karpenko-oleg/Q2-studio/static/css/main.c27b89bd.css",
-    "main.js": "/karpenko-oleg/Q2-studio/static/js/main.52cf2515.js",
+    "main.css": "/karpenko-oleg/Q2-studio/static/css/main.27fea8c4.css",
+    "main.js": "/karpenko-oleg/Q2-studio/static/js/main.7b4b2cd0.js",
     "static/css/813.7f8501e0.chunk.css": "/karpenko-oleg/Q2-studio/static/css/813.7f8501e0.chunk.css",
-    "static/js/813.eea04892.chunk.js": "/karpenko-oleg/Q2-studio/static/js/813.eea04892.chunk.js",
+    "static/js/813.a78854b7.chunk.js": "/karpenko-oleg/Q2-studio/static/js/813.a78854b7.chunk.js",
     "static/js/896.71e9031f.chunk.js": "/karpenko-oleg/Q2-studio/static/js/896.71e9031f.chunk.js",
     "static/media/дизайн аппартаментов Fun box.webm": "/karpenko-oleg/Q2-studio/static/media/дизайн аппартаментов Fun box.3e6590d9a1e17e565647.webm",
     "static/media/Проект частного дома SMALL HOME.mp4": "/karpenko-oleg/Q2-studio/static/media/Проект частного дома SMALL HOME.186987e8ddbd1258cf55.mp4",
@@ -105,10 +105,10 @@
     "static/media/3.png": "/karpenko-oleg/Q2-studio/static/media/3.fb8bf7c7325d519fbc8a.png",
     "static/media/конфета 1.png": "/karpenko-oleg/Q2-studio/static/media/конфета 1.2c1fa15fd07f7493e846.png",
     "static/media/точка.png": "/karpenko-oleg/Q2-studio/static/media/точка.4416a61e35543c500e5e.png",
-    "static/media/ofont.ru_Gerhaus.ttf": "/karpenko-oleg/Q2-studio/static/media/ofont.ru_Gerhaus.7e5174853788a9c3582d.ttf",
+    "static/media/Gerhaus.ttf": "/karpenko-oleg/Q2-studio/static/media/Gerhaus.7e5174853788a9c3582d.ttf",
     "static/media/розетка.png": "/karpenko-oleg/Q2-studio/static/media/розетка.553b7c8be0fee34cfbb7.png",
     "static/media/столик 2.png": "/karpenko-oleg/Q2-studio/static/media/столик 2.0928b9220e851fcc0450.png",
-    "static/media/Beatrice Display Bold.otf": "/karpenko-oleg/Q2-studio/static/media/Beatrice Display Bold.b72374b854638bc01fc5.otf",
+    "static/media/Beatrice.otf": "/karpenko-oleg/Q2-studio/static/media/Beatrice.b72374b854638bc01fc5.otf",
     "static/media/4.png": "/karpenko-oleg/Q2-studio/static/media/4.679ece068c6adc3e78d0.png",
     "static/media/item_4.jpg": "/karpenko-oleg/Q2-studio/static/media/item_4.ac781e54d0286614a4af.jpg",
     "static/media/конфета 2.png": "/karpenko-oleg/Q2-studio/static/media/конфета 2.c8be2f31ddfe158cc97d.png",
@@ -154,14 +154,14 @@
     "static/media/arrow1.svg": "/karpenko-oleg/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
     "static/media/close.svg": "/karpenko-oleg/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/karpenko-oleg/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
-    "main.c27b89bd.css.map": "/karpenko-oleg/Q2-studio/static/css/main.c27b89bd.css.map",
-    "main.52cf2515.js.map": "/karpenko-oleg/Q2-studio/static/js/main.52cf2515.js.map",
+    "main.27fea8c4.css.map": "/karpenko-oleg/Q2-studio/static/css/main.27fea8c4.css.map",
+    "main.7b4b2cd0.js.map": "/karpenko-oleg/Q2-studio/static/js/main.7b4b2cd0.js.map",
     "813.7f8501e0.chunk.css.map": "/karpenko-oleg/Q2-studio/static/css/813.7f8501e0.chunk.css.map",
-    "813.eea04892.chunk.js.map": "/karpenko-oleg/Q2-studio/static/js/813.eea04892.chunk.js.map",
+    "813.a78854b7.chunk.js.map": "/karpenko-oleg/Q2-studio/static/js/813.a78854b7.chunk.js.map",
     "896.71e9031f.chunk.js.map": "/karpenko-oleg/Q2-studio/static/js/896.71e9031f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c27b89bd.css",
-    "static/js/main.52cf2515.js"
+    "static/css/main.27fea8c4.css",
+    "static/js/main.7b4b2cd0.js"
   ]
 }
