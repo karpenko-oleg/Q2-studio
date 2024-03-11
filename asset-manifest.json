@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Q2-studio/static/css/main.201588f6.css",
-    "main.js": "/Q2-studio/static/js/main.efbde91f.js",
+    "main.js": "/Q2-studio/static/js/main.65f382b9.js",
     "static/css/393.c6e4f718.chunk.css": "/Q2-studio/static/css/393.c6e4f718.chunk.css",
     "static/js/393.b7f4d073.chunk.js": "/Q2-studio/static/js/393.b7f4d073.chunk.js",
-    "static/css/689.dede1f7d.chunk.css": "/Q2-studio/static/css/689.dede1f7d.chunk.css",
-    "static/js/689.c64931c7.chunk.js": "/Q2-studio/static/js/689.c64931c7.chunk.js",
+    "static/css/903.8095194e.chunk.css": "/Q2-studio/static/css/903.8095194e.chunk.css",
+    "static/js/903.1dd3932d.chunk.js": "/Q2-studio/static/js/903.1dd3932d.chunk.js",
     "static/css/835.220818dc.chunk.css": "/Q2-studio/static/css/835.220818dc.chunk.css",
     "static/js/835.e23ca7bc.chunk.js": "/Q2-studio/static/js/835.e23ca7bc.chunk.js",
     "static/js/863.f5fb0edf.chunk.js": "/Q2-studio/static/js/863.f5fb0edf.chunk.js",
@@ -21,11 +21,11 @@
     "static/media/6.jpg": "/Q2-studio/static/media/6.3fd848c32776421de274.jpg",
     "static/media/9.jpg": "/Q2-studio/static/media/9.5ac080d1c1a1e07cf331.jpg",
     "static/media/3.jpg": "/Q2-studio/static/media/3.b8b6ea6c7ccd7f5afcdc.jpg",
+    "static/media/item_3.jpg": "/Q2-studio/static/media/item_3.b642aff0d0bb57a0f073.jpg",
     "static/media/item_1.jpg": "/Q2-studio/static/media/item_1.cebf9bd195eaf61a2f4d.jpg",
     "static/media/10.jpg": "/Q2-studio/static/media/10.da633b6b06a9ddf93e77.jpg",
-    "static/media/item_3.jpg": "/Q2-studio/static/media/item_3.b872cf647ada96b5fdde.jpg",
+    "static/media/item_2.jpg": "/Q2-studio/static/media/item_2.4c8e22bc2a937d063662.jpg",
     "static/media/item_6.jpg": "/Q2-studio/static/media/item_6.55c0bd343590cc7fad5f.jpg",
-    "static/media/item_2.jpg": "/Q2-studio/static/media/item_2.9fa46ae217f1ed0d6d12.jpg",
     "static/media/_9.jpg": "/Q2-studio/static/media/_9.9d9303076a6e203d18d4.jpg",
     "static/media/_4.jpg": "/Q2-studio/static/media/_4.4becbd697f2ab11313ea.jpg",
     "static/media/7_1.jpg": "/Q2-studio/static/media/7_1.434adba88ec6a44ba6ab.jpg",
@@ -121,11 +121,11 @@
     "static/media/close.svg": "/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
     "main.201588f6.css.map": "/Q2-studio/static/css/main.201588f6.css.map",
-    "main.efbde91f.js.map": "/Q2-studio/static/js/main.efbde91f.js.map",
+    "main.65f382b9.js.map": "/Q2-studio/static/js/main.65f382b9.js.map",
     "393.c6e4f718.chunk.css.map": "/Q2-studio/static/css/393.c6e4f718.chunk.css.map",
     "393.b7f4d073.chunk.js.map": "/Q2-studio/static/js/393.b7f4d073.chunk.js.map",
-    "689.dede1f7d.chunk.css.map": "/Q2-studio/static/css/689.dede1f7d.chunk.css.map",
-    "689.c64931c7.chunk.js.map": "/Q2-studio/static/js/689.c64931c7.chunk.js.map",
+    "903.8095194e.chunk.css.map": "/Q2-studio/static/css/903.8095194e.chunk.css.map",
+    "903.1dd3932d.chunk.js.map": "/Q2-studio/static/js/903.1dd3932d.chunk.js.map",
     "835.220818dc.chunk.css.map": "/Q2-studio/static/css/835.220818dc.chunk.css.map",
     "835.e23ca7bc.chunk.js.map": "/Q2-studio/static/js/835.e23ca7bc.chunk.js.map",
     "863.f5fb0edf.chunk.js.map": "/Q2-studio/static/js/863.f5fb0edf.chunk.js.map",
@@ -133,6 +133,6 @@
   },
   "entrypoints": [
     "static/css/main.201588f6.css",
-    "static/js/main.efbde91f.js"
+    "static/js/main.65f382b9.js"
   ]
 }
