@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Q2-studio/static/css/main.da31f116.css",
-    "main.js": "/Q2-studio/static/js/main.66b9faf8.js",
+    "main.css": "/Q2-studio/static/css/main.184d7920.css",
+    "main.js": "/Q2-studio/static/js/main.d0c115c6.js",
     "static/css/393.c6e4f718.chunk.css": "/Q2-studio/static/css/393.c6e4f718.chunk.css",
     "static/js/393.73e032d4.chunk.js": "/Q2-studio/static/js/393.73e032d4.chunk.js",
     "static/css/903.8095194e.chunk.css": "/Q2-studio/static/css/903.8095194e.chunk.css",
@@ -9,7 +9,7 @@
     "static/css/835.220818dc.chunk.css": "/Q2-studio/static/css/835.220818dc.chunk.css",
     "static/js/835.e23ca7bc.chunk.js": "/Q2-studio/static/js/835.e23ca7bc.chunk.js",
     "static/js/863.f5fb0edf.chunk.js": "/Q2-studio/static/js/863.f5fb0edf.chunk.js",
-    "static/js/896.71e9031f.chunk.js": "/Q2-studio/static/js/896.71e9031f.chunk.js",
+    "static/js/896.6d22e71a.chunk.js": "/Q2-studio/static/js/896.6d22e71a.chunk.js",
     "static/media/logo__bg.mp4": "/Q2-studio/static/media/logo__bg.f91950b7e8d0e8da214e.mp4",
     "static/media/5.jpg": "/Q2-studio/static/media/5.4c711d098158ee9baa00.jpg",
     "static/media/5_1.jpg": "/Q2-studio/static/media/5_1.6f529831c994d66c55ca.jpg",
@@ -48,6 +48,7 @@
     "static/media/bg.jpg": "/Q2-studio/static/media/bg.cb8da71eae4455012c3e.jpg",
     "static/media/item_10.jpg": "/Q2-studio/static/media/item_10.c918e3b4586614e773ce.jpg",
     "static/media/листы с цифрой и трубопроводом.png": "/Q2-studio/static/media/листы с цифрой и трубопроводом.27ed14de4516c2eb9e49.png",
+    "static/media/Gerhaus.ttf": "/Q2-studio/static/media/Gerhaus.7e5174853788a9c3582d.ttf",
     "static/media/утп.jpg": "/Q2-studio/static/media/утп.42933a962b6e4a568ffa.jpg",
     "static/media/item_4.jpg": "/Q2-studio/static/media/item_4.ac781e54d0286614a4af.jpg",
     "static/media/план 2.png": "/Q2-studio/static/media/план 2.bb0f61942bbb66cf10e1.png",
@@ -55,7 +56,10 @@
     "static/media/10.svg": "/Q2-studio/static/media/10.5132ef16b93a9d08ce0073536ffa7dda.svg",
     "static/media/план 1.png": "/Q2-studio/static/media/план 1.53daf0544ef9bda94916.png",
     "static/media/диван.png": "/Q2-studio/static/media/диван.4f91021be5bf50943fb6.png",
+    "static/media/HeroBold.ttf": "/Q2-studio/static/media/HeroBold.17cd8f7840090acbaeb6.ttf",
     "static/media/11.svg": "/Q2-studio/static/media/11.0b30353250df36dc0412e71ee36e3457.svg",
+    "static/media/HeroRegular.ttf": "/Q2-studio/static/media/HeroRegular.e7de38fb0b59857c16cd.ttf",
+    "static/media/HeroLight.ttf": "/Q2-studio/static/media/HeroLight.5da03185f926f6717e20.ttf",
     "static/media/дизайнер.png": "/Q2-studio/static/media/дизайнер.034778397c1c08176ba8.png",
     "static/media/1.svg": "/Q2-studio/static/media/1.6b386f58a8ef0a556aa2b70d6021f4dd.svg",
     "static/media/буква R.png": "/Q2-studio/static/media/буква R.91ab75b3146fa4d1bd89.png",
@@ -63,7 +67,6 @@
     "static/media/строитель.png": "/Q2-studio/static/media/строитель.b0477491cfc936b267da.png",
     "static/media/двойка.png": "/Q2-studio/static/media/двойка.c030a871c4a6143a0df9.png",
     "static/media/Beatrice.woff": "/Q2-studio/static/media/Beatrice.d8dd3f06f8f0756f20d0.woff",
-    "static/media/Gerhaus.woff": "/Q2-studio/static/media/Gerhaus.90243e7c99986f403400.woff",
     "static/media/HeroBold.woff": "/Q2-studio/static/media/HeroBold.8839dd5e2a9746986f8f.woff",
     "static/media/HeroRegular.woff": "/Q2-studio/static/media/HeroRegular.16ffde9af76ca5f8c2d6.woff",
     "static/media/HeroLight.woff": "/Q2-studio/static/media/HeroLight.bab34fb5b3089846bfe6.woff",
@@ -74,6 +77,7 @@
     "static/media/анкета.png": "/Q2-studio/static/media/анкета.10cd63f8fe56009a233d.png",
     "static/media/7.svg": "/Q2-studio/static/media/7.8e8305d26e71fa672f9868167a9bf669.svg",
     "static/media/шарик2.png": "/Q2-studio/static/media/шарик2.12f1890ad7ddc6ff92ba.png",
+    "static/media/HelveticaNeue.ttf": "/Q2-studio/static/media/HelveticaNeue.9c4794b091302442b6a0.ttf",
     "static/media/значек вопроса диалога.png": "/Q2-studio/static/media/значек вопроса диалога.514a196bf9e71c74f0eb.png",
     "static/media/шарик1.png": "/Q2-studio/static/media/шарик1.af93b1b267f3995f7f50.png",
     "static/media/8.svg": "/Q2-studio/static/media/8.37214086db19aa7b861c0544dd602671.svg",
@@ -122,8 +126,8 @@
     "static/media/arrow1.svg": "/Q2-studio/static/media/arrow1.0b34f0b7f5a68f9ccd6a515081fb7dfe.svg",
     "static/media/close.svg": "/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
-    "main.da31f116.css.map": "/Q2-studio/static/css/main.da31f116.css.map",
-    "main.66b9faf8.js.map": "/Q2-studio/static/js/main.66b9faf8.js.map",
+    "main.184d7920.css.map": "/Q2-studio/static/css/main.184d7920.css.map",
+    "main.d0c115c6.js.map": "/Q2-studio/static/js/main.d0c115c6.js.map",
     "393.c6e4f718.chunk.css.map": "/Q2-studio/static/css/393.c6e4f718.chunk.css.map",
     "393.73e032d4.chunk.js.map": "/Q2-studio/static/js/393.73e032d4.chunk.js.map",
     "903.8095194e.chunk.css.map": "/Q2-studio/static/css/903.8095194e.chunk.css.map",
@@ -131,10 +135,10 @@
     "835.220818dc.chunk.css.map": "/Q2-studio/static/css/835.220818dc.chunk.css.map",
     "835.e23ca7bc.chunk.js.map": "/Q2-studio/static/js/835.e23ca7bc.chunk.js.map",
     "863.f5fb0edf.chunk.js.map": "/Q2-studio/static/js/863.f5fb0edf.chunk.js.map",
-    "896.71e9031f.chunk.js.map": "/Q2-studio/static/js/896.71e9031f.chunk.js.map"
+    "896.6d22e71a.chunk.js.map": "/Q2-studio/static/js/896.6d22e71a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da31f116.css",
-    "static/js/main.66b9faf8.js"
+    "static/css/main.184d7920.css",
+    "static/js/main.d0c115c6.js"
   ]
 }
