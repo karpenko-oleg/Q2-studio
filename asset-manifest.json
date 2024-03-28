@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Q2-studio/static/css/main.171b1595.css",
-    "main.js": "/Q2-studio/static/js/main.76c77d07.js",
+    "main.js": "/Q2-studio/static/js/main.15ad2bcc.js",
     "static/css/843.8c333bb8.chunk.css": "/Q2-studio/static/css/843.8c333bb8.chunk.css",
-    "static/js/843.a2cc37b7.chunk.js": "/Q2-studio/static/js/843.a2cc37b7.chunk.js",
+    "static/js/843.bfcc23a3.chunk.js": "/Q2-studio/static/js/843.bfcc23a3.chunk.js",
     "static/css/903.8095194e.chunk.css": "/Q2-studio/static/css/903.8095194e.chunk.css",
     "static/js/903.43086def.chunk.js": "/Q2-studio/static/js/903.43086def.chunk.js",
     "static/js/624.1fe7c1ec.chunk.js": "/Q2-studio/static/js/624.1fe7c1ec.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/346.196fb5cf.chunk.css": "/Q2-studio/static/css/346.196fb5cf.chunk.css",
     "static/js/346.f151db85.chunk.js": "/Q2-studio/static/js/346.f151db85.chunk.js",
     "static/css/881.d2654263.chunk.css": "/Q2-studio/static/css/881.d2654263.chunk.css",
-    "static/js/881.fb77c7ad.chunk.js": "/Q2-studio/static/js/881.fb77c7ad.chunk.js",
+    "static/js/881.dd45fe37.chunk.js": "/Q2-studio/static/js/881.dd45fe37.chunk.js",
     "static/css/927.83b9c1e1.chunk.css": "/Q2-studio/static/css/927.83b9c1e1.chunk.css",
     "static/js/927.78274106.chunk.js": "/Q2-studio/static/js/927.78274106.chunk.js",
     "static/css/290.310f2910.chunk.css": "/Q2-studio/static/css/290.310f2910.chunk.css",
@@ -19,9 +19,9 @@
     "static/css/698.175246f7.chunk.css": "/Q2-studio/static/css/698.175246f7.chunk.css",
     "static/js/698.f593f62a.chunk.js": "/Q2-studio/static/js/698.f593f62a.chunk.js",
     "static/js/863.f5fb0edf.chunk.js": "/Q2-studio/static/js/863.f5fb0edf.chunk.js",
-    "static/js/351.605d270f.chunk.js": "/Q2-studio/static/js/351.605d270f.chunk.js",
+    "static/js/930.91cecb29.chunk.js": "/Q2-studio/static/js/930.91cecb29.chunk.js",
     "static/js/681.2ccc36cd.chunk.js": "/Q2-studio/static/js/681.2ccc36cd.chunk.js",
-    "static/css/485.cb82de90.chunk.css": "/Q2-studio/static/css/485.cb82de90.chunk.css",
+    "static/css/485.37a45f4b.chunk.css": "/Q2-studio/static/css/485.37a45f4b.chunk.css",
     "static/media/Frame 1.svg": "/Q2-studio/static/media/Frame 1.4a37a7a2c78aa27fcccfa81b3580b33d.svg",
     "static/media/Frame 4.svg": "/Q2-studio/static/media/Frame 4.13657de66749e6082ee0c0af23568ba7.svg",
     "static/media/Frame 2.svg": "/Q2-studio/static/media/Frame 2.cb116c8577162b7cde1d023ee7cdac6a.svg",
@@ -138,9 +138,9 @@
     "static/media/close.svg": "/Q2-studio/static/media/close.d3724015a28ada69681849cfbfcf9f21.svg",
     "static/media/arrow.svg": "/Q2-studio/static/media/arrow.cec9f7a8f8e56896dc0a15ebefcafc00.svg",
     "main.171b1595.css.map": "/Q2-studio/static/css/main.171b1595.css.map",
-    "main.76c77d07.js.map": "/Q2-studio/static/js/main.76c77d07.js.map",
+    "main.15ad2bcc.js.map": "/Q2-studio/static/js/main.15ad2bcc.js.map",
     "843.8c333bb8.chunk.css.map": "/Q2-studio/static/css/843.8c333bb8.chunk.css.map",
-    "843.a2cc37b7.chunk.js.map": "/Q2-studio/static/js/843.a2cc37b7.chunk.js.map",
+    "843.bfcc23a3.chunk.js.map": "/Q2-studio/static/js/843.bfcc23a3.chunk.js.map",
     "903.8095194e.chunk.css.map": "/Q2-studio/static/css/903.8095194e.chunk.css.map",
     "903.43086def.chunk.js.map": "/Q2-studio/static/js/903.43086def.chunk.js.map",
     "624.1fe7c1ec.chunk.js.map": "/Q2-studio/static/js/624.1fe7c1ec.chunk.js.map",
@@ -148,7 +148,7 @@
     "346.196fb5cf.chunk.css.map": "/Q2-studio/static/css/346.196fb5cf.chunk.css.map",
     "346.f151db85.chunk.js.map": "/Q2-studio/static/js/346.f151db85.chunk.js.map",
     "881.d2654263.chunk.css.map": "/Q2-studio/static/css/881.d2654263.chunk.css.map",
-    "881.fb77c7ad.chunk.js.map": "/Q2-studio/static/js/881.fb77c7ad.chunk.js.map",
+    "881.dd45fe37.chunk.js.map": "/Q2-studio/static/js/881.dd45fe37.chunk.js.map",
     "927.83b9c1e1.chunk.css.map": "/Q2-studio/static/css/927.83b9c1e1.chunk.css.map",
     "927.78274106.chunk.js.map": "/Q2-studio/static/js/927.78274106.chunk.js.map",
     "290.310f2910.chunk.css.map": "/Q2-studio/static/css/290.310f2910.chunk.css.map",
@@ -156,12 +156,12 @@
     "698.175246f7.chunk.css.map": "/Q2-studio/static/css/698.175246f7.chunk.css.map",
     "698.f593f62a.chunk.js.map": "/Q2-studio/static/js/698.f593f62a.chunk.js.map",
     "863.f5fb0edf.chunk.js.map": "/Q2-studio/static/js/863.f5fb0edf.chunk.js.map",
-    "351.605d270f.chunk.js.map": "/Q2-studio/static/js/351.605d270f.chunk.js.map",
+    "930.91cecb29.chunk.js.map": "/Q2-studio/static/js/930.91cecb29.chunk.js.map",
     "681.2ccc36cd.chunk.js.map": "/Q2-studio/static/js/681.2ccc36cd.chunk.js.map",
-    "485.cb82de90.chunk.css.map": "/Q2-studio/static/css/485.cb82de90.chunk.css.map"
+    "485.37a45f4b.chunk.css.map": "/Q2-studio/static/css/485.37a45f4b.chunk.css.map"
   },
   "entrypoints": [
     "static/css/main.171b1595.css",
-    "static/js/main.76c77d07.js"
+    "static/js/main.15ad2bcc.js"
   ]
 }
